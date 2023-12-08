@@ -5,10 +5,15 @@ Project Description:
 The Project Organizer serves as a comprehensive tool for managing projects with the fundamental CRUD operations:
 
 Add a Project: Easily add new projects to the database.
+
 List Projects: View a list of existing projects.
+
 Select a Project: Select and view details of a specific project.
+
 Update Project Details: Modify and update project information.
+
 Delete a Project: Remove projects from the database.
+
 Key Features: 
 CRUD Operations: The ability to perform all CRUD operations on project data, offering full control and management capabilities.
 Database Integration: Leveraging MySQL and DBeaver, ensuring robust and scalable storage and management of project data.
