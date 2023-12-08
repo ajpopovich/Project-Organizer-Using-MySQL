@@ -30,10 +30,7 @@ Feature 2: Database Integration
 Integrating MySQL with the application was a significant challenge. Establishing proper connections, managing schemas, and handling queries were key aspects that required meticulous attention.
 
 Code Snippets: 
-	private Scanner scanner = new Scanner (System.in);
-	private ProjectService projectService = new ProjectService();
-	private Project curProject;
-	
+
         // @formatter:off
        private List<String> operations = List.of(
         		"1) Add a project",
