@@ -27,7 +27,7 @@ Feature 1: CRUD Operations
 Implementing the complete set of CRUD functionalities was crucial. It involved creating a seamless user interface and ensuring database synchronization with user actions.
 
 Feature 2: Database Integration
-Integrating MySQL with the application was a significant challenge. Establishing proper connections, managing schemas, and handling queries were key aspects that required meticulous attention.
+Integrating MySQL with the application was challenging and excited to tackle for the first time. Establishing proper connections, managing schemas, and handling queries were key aspects that required attention.
 
 Code Snippets: 
 
@@ -113,4 +113,4 @@ Contact Information
 For any inquiries or feedback, feel free to reach out:
 
 Email: popovich2614@gmail.com
-@ajpopovich on Instagram!
+@alexanderjohnpopovich on Instagram!
